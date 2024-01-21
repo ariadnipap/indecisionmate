@@ -1,0 +1,2370 @@
+[
+  {
+    "Activity": "Listen to Imagine Dragons",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "happy, party, angry, moody, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to Taylor Swift",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "happy, in_love, moody, moody, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to One Direction",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to Glass Animals",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to Post Malone",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "moody, happy, in_love, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to ABBA",
+    "People": "Alone",
+    "Interest": "Music",
+    "Mood": "happy, party, playful, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Listen to Taylor Swift",
+    "People": "Couples",
+    "Interest": "Music",
+    "Mood": "happy, in_love, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go to Africana",
+    "People": "Couples",
+    "Interest": "Music",
+    "Mood": "moody, happy",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Create a shared list on Spotify",
+    "People": "Couples, Friends, Family",
+    "Interest": "Music",
+    "Mood": "happy, in_love, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go vinyl record hunting",
+    "People": "Couples, Alone",
+    "Interest": "Music",
+    "Mood": "nerd, in_love, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Karaoke date night",
+    "People": "Couples",
+    "Interest": "Music, Parties",
+    "Mood": "nerd, in_love, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Take up dance lessons",
+    "People": "Couples, Friends, Family",
+    "Interest": "Music, Parties",
+    "Mood": "party, happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to Miltos Pasxalidis's concert",
+    "People": "Friends, Couples",
+    "Interest": "Music, Culture",
+    "Mood": "angry, happy, in_love, nerd, moody, meh, party, sleepy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to LeRoi's Live",
+    "People": "Friends, Couples, Family",
+    "Interest": "Music, Parties",
+    "Mood": "nerd, party, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to Amon Amarth",
+    "People": "Friends",
+    "Interest": "Music",
+    "Mood": "nerd, angry",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to Vasilis Papakonstantinou concert",
+    "People": "Friends, Couples",
+    "Interest": "Music, Lifestyle",
+    "Mood": "nerd, moody, plauful, in_love, party",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to Thanasis Papakonstantinou concert",
+    "People": "Friends, Couples",
+    "Interest": "Music",
+    "Mood": "nerd, moody, plauful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to PlintirioBar",
+    "People": "Friends",
+    "Interest": "Music, Parties",
+    "Mood": "happy, party, playful, party",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to Ekei",
+    "People": "Friends",
+    "Interest": "Music, Parties",
+    "Mood": "happy, party, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Music road trip",
+    "People": "Family, Friends, Couples",
+    "Interest": "Music, Lifestyle",
+    "Mood": "happy, playful, in_love",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Music trivia night",
+    "People": "Family, Friends",
+    "Interest": "Music, Board games",
+    "Mood": "meh, nerd, happy, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Attend music workshops",
+    "People": "Family, Couples",
+    "Interest": "Music, Learning",
+    "Mood": "nerd, happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "DIY music video",
+    "People": "Family, Friends",
+    "Interest": "Music",
+    "Mood": "playful, party, happy, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Musical-themed movie night",
+    "People": "Family, Couples",
+    "Interest": "Music, Movies & TV Shows",
+    "Mood": "happy, sleepy, meh, in_love",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Talent show",
+    "People": "Family, Friends",
+    "Interest": "Music, Parties",
+    "Mood": "party, happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Solo movie outing",
+    "People": "Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, nerd, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Create personal movie database",
+    "People": "Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, sleepy, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Watch Stranger things",
+    "People": "Alone, Family, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "moody, meh, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go to Cannes film festival",
+    "People": "Alone, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "party, happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Create a film critique journal",
+    "People": "Alone, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, nerd, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Read Making Movies, by Sidney Lumet",
+    "People": "Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Movie genre swap",
+    "People": "Couples, Friends, Family",
+    "Interest": "Movies & TV Shows",
+    "Mood": "playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Movie-inspired Cooking Night",
+    "People": "Couples, Friends, Family",
+    "Interest": "Movies & TV Shows",
+    "Mood": "playful, happy, in_love",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Movie or TV Show Bucket List",
+    "People": "Couples, Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, meh, happy, in_love",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Create Movie or TV Show Review Blog",
+    "People": "Couples, Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, happy, meh, in_love",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Movie marathon night",
+    "People": "Couples, Alone",
+    "Interest": "Movies & TV Shows",
+    "Mood": "sleepy, meh, moody, in_love, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go to a live comedy show",
+    "People": "Couples, Friends, Family",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, playful, party, in_love",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "At-home movie theater",
+    "People": "Friends, Family, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, playful, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Visit a Filming Location",
+    "People": "Friends, Family, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, playful, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to the cinema",
+    "People": "Friends, Family, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, meh, moody, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cosplay Night",
+    "People": "Friends, Family",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, meh, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "TV show premiere party",
+    "People": "Friends",
+    "Interest": "Movies & TV Shows, Parties",
+    "Mood": "nerd, happy, party, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "TV Show-themed Escape Room",
+    "People": "Friends, Family",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, meh, nerd, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "TV Show Trivia Night",
+    "People": "Family, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, happy, playful, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Create a Movie Club",
+    "People": "Family, Friends",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Movie-themed Crafts",
+    "People": "Family, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, happy, playful, meh, in_love",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Acting Talent Show",
+    "People": "Family, Friends",
+    "Interest": "Movies & TV Shows, Parties",
+    "Mood": "nerd, happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Outdoor Movie Night",
+    "People": "Family, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "nerd, sleepy, meh, moody, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "VIP Movie Experience",
+    "People": "Family, Friends, Couples",
+    "Interest": "Movies & TV Shows",
+    "Mood": "happy, nerd, playful, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Fishing or angling",
+    "People": "Alone, Friends, Couples, Family",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, meh, moody, angry, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Bird watching",
+    "People": "Alone, Friends, Couples, Family",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, meh, moody, angry, nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature photography excursion",
+    "People": "Alone, Friends, Couples, Family",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, meh, nerd ",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature journaling",
+    "People": "Alone",
+    "Interest": "Nature & Animals",
+    "Mood": "moody, meh, nerd, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Stargazing",
+    "People": "Alone, Couples, Friends",
+    "Interest": "Nature & Animals, Lifestyle",
+    "Mood": "moody, meh, happy, nerd, in_love",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature meditation",
+    "People": "Alone",
+    "Interest": "Nature & Animals, Lifestyle",
+    "Mood": "moody, angry, happy, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Visit the local zoo",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, playful, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Volunteer at animal shelter",
+    "People": "Couples, Alone, Friends",
+    "Interest": "Nature & Animals",
+    "Mood": "happy",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Camping trip",
+    "People": "Couples, Friends, Family",
+    "Interest": "Nature & Animals, Lifestyle, Sports & Fitness",
+    "Mood": "happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature walks & hikes",
+    "People": "Couples, Alone, Friends, Family",
+    "Interest": "Nature & Animals, Lifestyle, Sports & Fitness",
+    "Mood": "happy, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature sculpture/Rock stacking",
+    "People": "Couples, Alone, Friends, Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, moody, meh, nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Kayaking/Canoeing",
+    "People": "Couples, Friends",
+    "Interest": "Nature & Animals, Sports & Fitness",
+    "Mood": "happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Botanical garden visit",
+    "People": "Couples, Friends, Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, moody, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Picnic",
+    "People": "Friendst, Couples, Family",
+    "Interest": "Nature & Animals, Food & Drinks",
+    "Mood": "happy, meh, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Wildlife sanctuary visit",
+    "People": "Friends, Couples, Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Horseback riding",
+    "People": "Friends, Couples, Family",
+    "Interest": "Nature & Animals, Sports & Fitness",
+    "Mood": "happy, meh, moody, angry, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature-themed art session",
+    "People": "Friends, Couples, Family",
+    "Interest": "Nature & Animals, Art",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Outdoor art & craft day",
+    "People": "Friends, Family",
+    "Interest": "Nature & Animals, Art",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Community gardening project",
+    "People": "Friends, Family",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature-themed scavenger hunt",
+    "People": "Family, Friends",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Geocaching adventure",
+    "People": "Family, Friends",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, playful, nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Animal-themed Obstacle Course",
+    "People": "Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "happy, playful, nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nature-Inspired Storytelling Night",
+    "People": "Family, Friends",
+    "Interest": "Nature & Animals",
+    "Mood": "happy, moody, meh, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Nature Alphabet Hunt",
+    "People": "Family",
+    "Interest": "Nature & Animals, Learning",
+    "Mood": "nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Hot Air Balloon Ride",
+    "People": "Family, Friends, Couples",
+    "Interest": "Nature & Animals",
+    "Mood": "happy",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cooking Class or Workshop",
+    "People": "Alone, Couples",
+    "Interest": "Food & Drinks, Sports & Fitness, Lifestyle, Learning",
+    "Mood": "happy, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Gourmet Food Tour",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Food & Drinks, Lifestyle",
+    "Mood": "happy, meh, in_love",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Create a Personalized Cookbook",
+    "People": "Alone, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "nerd, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Food and Travel Blogging",
+    "People": "Alone, Couples",
+    "Interest": "Food & Drinks, Lifestyle",
+    "Mood": "happy, in_love",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Food and Wine Subscription Boxes",
+    "People": "Alone, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Culinary Webinar or Masterclass",
+    "People": "Alone, Couples",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "nerd, happy, meh, in_love",
+    "Budget": "medium",
+    "InOut": "Go out"
+  },
+  {
+    "Activity": "Homemade Food & Drink Pairing Dinner",
+    "People": "Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, in_love, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Sushi Making Workshop",
+    "People": "Couples, Alone",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "happy, nerd, meh, moody",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cheese Tasting Experience",
+    "People": "Couples, Alone",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, meh, moody, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Gardening for Culinary Herbs",
+    "People": "Couples, Alone",
+    "Interest": "Food & Drinks, Learning, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Visit a Specialty Food Store",
+    "People": "Couples, Alone",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Wine Tasting & Vineyard Tour",
+    "People": "Couples, Friends",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "happy, nerd",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Visit a Brewery or Distillery",
+    "People": "Friends, Couples",
+    "Interest": "Food & Drinks, Parties",
+    "Mood": "playful, happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Have a beer at the local pub",
+    "People": "Friends, Couples",
+    "Interest": "Food & Drinks, Parties",
+    "Mood": "playful, happy, party, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Food Truck Tasting Tour",
+    "People": "Friends, Couples, Family",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Mystery Ingredient Dinner Party",
+    "People": "Friends, Couples, Family",
+    "Interest": "Food & Drinks, Parties",
+    "Mood": "happy, party, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Cocktail Mixology Workshop",
+    "People": "Friends, Couples, Alone",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "happy, playful, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Have a blast at the local club",
+    "People": "Friends",
+    "Interest": "Food & Drinks, Parties",
+    "Mood": "happy, party, playful, meh, moody",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Dine at Michelin-starred Restaurant",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, playful, nerd",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Coffee Brewing Class",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "happy, nerd, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Chocolate Making Workshop",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks, Learning",
+    "Mood": "happy, nerd, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Hot Pot Cooking",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Edible Garden Project",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks, Lifestyle",
+    "Mood": "happy, nerd, meh, sad, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Global Cuisine Night",
+    "People": "Family, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Food Sculpture Contest",
+    "People": "Family, Friends",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "BBQ Party",
+    "People": "Family, Friends",
+    "Interest": "Food & Drinks, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Food critic session",
+    "People": "Friends, Family, Couples",
+    "Interest": "Food & Drinks",
+    "Mood": "happy, meh, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Painting session",
+    "People": "Alone, Couples",
+    "Interest": "Art",
+    "Mood": "happy, angry, moody, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Visit modern art museum",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Art, Culture, Learning",
+    "Mood": "happy, meh, moody, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Visit the national gallery",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Art, Culture, Learning",
+    "Mood": "happy, meh, moody, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Art journaling",
+    "People": "Alone",
+    "Interest": "Art",
+    "Mood": "happy, meh, moody, nerd, angry, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Digital art exploration",
+    "People": "Alone, Couples",
+    "Interest": "Art, Culture, Learning",
+    "Mood": "happy, meh, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Origami creations",
+    "People": "Alone, Couples, Family",
+    "Interest": "Art, Learning",
+    "Mood": "happy, meh, nerd, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Artistic Collage Making",
+    "People": "Alone, Couples",
+    "Interest": "Art",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Artistic Meditation",
+    "People": "Alone",
+    "Interest": "Art, Lifestyle",
+    "Mood": "happy, nerd, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go art shopping",
+    "People": "Alone, Couples",
+    "Interest": "Art",
+    "Mood": "happy, playful, nerd",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Pottery & Clay sculpting",
+    "People": "Couples, Alone, Family",
+    "Interest": "Art, Learning",
+    "Mood": "happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Sketching in nature",
+    "People": "Couples, Alone, Family",
+    "Interest": "Art, Lifestyle",
+    "Mood": "happy, moody, angry, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Art Documentary Marathon",
+    "People": "Couples, Alone, Family",
+    "Interest": "Art, Learning",
+    "Mood": "nerd, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Outdoor Mural Painting",
+    "People": "Couples, Alone",
+    "Interest": "Art, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Candle Making Workshop",
+    "People": "Couples, Alone",
+    "Interest": "Art, Learning",
+    "Mood": "happy, meh, in_love",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Art exhibitions hop",
+    "People": "Couples, Friends",
+    "Interest": "Art",
+    "Mood": "happy, playful, in_love",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Do graffiti",
+    "People": "Friends",
+    "Interest": "Art",
+    "Mood": "happy",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Painting lessons",
+    "People": "Friends, Alone, Family, Couples",
+    "Interest": "Art, Learning",
+    "Mood": "nerd, happy, moody, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Friendship bracelet workshop",
+    "People": "Friends",
+    "Interest": "Art, Learning",
+    "Mood": "happy, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Group Mosaic Project",
+    "People": "Friends, Family",
+    "Interest": "Art",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Themed DIY Art Night",
+    "People": "Friends, Family",
+    "Interest": "Art",
+    "Mood": "happy, playful, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Tie-Dye Party",
+    "People": "Friends",
+    "Interest": "Art, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Create a Mural or Wall Art",
+    "People": "Family, Alone, Couples",
+    "Interest": "Art",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Art Workshop Participation",
+    "People": "Family, Friends, Couples, Alone",
+    "Interest": "Art, Learning",
+    "Mood": "nerd, happy, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Artistic DIY Home Decor",
+    "People": "Family, Couples, Alone",
+    "Interest": "Art",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Pottery Night",
+    "People": "Family, Couples",
+    "Interest": "Art, Learning",
+    "Mood": "nerd, happy, nerd, sleepy",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Art Museum",
+    "People": "Family",
+    "Interest": "Art",
+    "Mood": "happy, sleepy, meh ",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Rock Painting",
+    "People": "Family, Couples, Friends, Alone",
+    "Interest": "Art",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Plan artistic trip",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Art, Lifestyle",
+    "Mood": "happy, playful, party",
+    "Budget": "high",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Plan artistic event",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Art, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Attend art auction",
+    "People": "Alone, Art, Friends, Family",
+    "Interest": "Art",
+    "Mood": "happy, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Virtual Dance Party",
+    "People": "Alone, Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Cocktail Night",
+    "People": "Alone, Friends, Couples",
+    "Interest": "Parties, Food & Drinks",
+    "Mood": "happy, party, playful, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Photo Booth",
+    "People": "Alone, Friends, Couples",
+    "Interest": "Parties",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Visit a rage room",
+    "People": "Alone",
+    "Interest": "Parties",
+    "Mood": "happy, angry, moody, meh, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Private Dance Party",
+    "People": "Couples, Friends, Family",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Casino Night",
+    "People": "Couples, Friends",
+    "Interest": "Parties",
+    "Mood": "happy, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Attend a festival",
+    "People": "Couples, Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, meh, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Host a Hot Tub Party",
+    "People": "Couples, Friends",
+    "Interest": "Parties",
+    "Mood": "happy, party, playful, in_love",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Beer Pong Tournament",
+    "People": "Couples, Friends",
+    "Interest": "Parties, Food & Drinks",
+    "Mood": "happy, party, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Take up dance lessons",
+    "People": "Couples, Alone",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful, in_love",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Nightclub Simulation",
+    "People": "Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Nightclub hopping",
+    "People": "Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Bar hopping",
+    "People": "Friends",
+    "Interest": "Parties, Food & Drinks",
+    "Mood": "happy, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Host a Pool/Beach Party",
+    "People": "Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Host a themed houseparty",
+    "People": "Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "VIP Club Experience",
+    "People": "Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Host a Rooftop Party",
+    "People": "Family, Friends",
+    "Interest": "Parties, Music",
+    "Mood": "happy, party, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Family Game Night Extravaganza",
+    "People": "Family",
+    "Interest": "Parties, Board Games",
+    "Mood": "happy, party, playful, nerd, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Backyard Camping Party",
+    "People": "Family, Friends",
+    "Interest": "Parties",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Host a Costume Party",
+    "People": "Family, Friends",
+    "Interest": "Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Host a Potluck Dinner party",
+    "People": "Family, Couples, Friends ",
+    "Interest": "Parties, Food & Drinks",
+    "Mood": "happy, playful, party, sleepy, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go for a run",
+    "People": "Alone, Couples, Friends",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "meh, moody, happy, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Rgeister in your local gym",
+    "People": "Alone",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cycling adventure",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Sports & Fitness, Lifestyle, Nature & Animals",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Mountain hiking",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Sports & Fitness, Lifestyle, Nature & Animals",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Healthy cooking class",
+    "People": "Alone, Couples",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Take up yoga clusses",
+    "People": "Alone",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Play tennis",
+    "People": "Couples",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Material art class",
+    "People": "Couples, Alone",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, angry, moody, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Kickboxing class",
+    "People": "Couples, Alone",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, angry, moody, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Indoor workout session",
+    "People": "Couples, Alone",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, in_love, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Go trail running",
+    "People": "Couples, Alone",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Crossfit workout",
+    "People": "Couples, Alone",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, angry, moody, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Beach volleyball",
+    "People": "Friends",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, party, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Frisbee tournaments",
+    "People": "Friends, Family",
+    "Interest": "Sports & Fitness, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Swimming sessions",
+    "People": "Friends, Family, Couples",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go bowling",
+    "People": "Friends, Family",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Golf/Mini golf outnings",
+    "People": "Friends, Family, Couples, Alone",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, meh, moody",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Soccer league",
+    "People": "Friends",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Fitness challenges outdoor",
+    "People": "Family, Friends",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Ski vacation",
+    "People": "Family, Friends, Couples",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Surfing lessons",
+    "People": "Family, Friends, Coyples",
+    "Interest": "Sports & Fitness",
+    "Mood": "happy, playful, meh, moody",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Adventure park day",
+    "People": "Family, Friends",
+    "Interest": "Sports & Fitness, Nature & Animals",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Backyard volleyball tournament",
+    "People": "Family, Friends",
+    "Interest": "Sports & Fitness, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Late night walk at the park",
+    "People": "Family, Alone, Friends, Couples",
+    "Interest": "Sports & Fitness, Lifestyle",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Archeological museum night",
+    "People": "Alone, Couples",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to the theater",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Culture",
+    "Mood": "nerd, happy, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Explore a historical site",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Culture, learning",
+    "Mood": "nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Bookstore/Library day",
+    "People": "Alone, Couples",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, happy, meh, moody",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Learn a language",
+    "People": "Alone, Couples",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Explore street art",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Culture",
+    "Mood": "nerd, happy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Archeological tour",
+    "People": "Couples, Friends, Family",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Attend a literary event",
+    "People": "Couples, Family",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Go to the opera",
+    "People": "Couples, Friends, Family",
+    "Interest": "Culture, Music",
+    "Mood": "nerd, happy, meh, moody, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Vacation at cultural destination",
+    "People": "Couples, Family",
+    "Interest": "Culture, Lifestyle",
+    "Mood": "happy, playful, nerd",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Architectural tour",
+    "People": "Couples, Family",
+    "Interest": "Culture",
+    "Mood": "happy, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Visit Cultural Heritage Site",
+    "People": "Couples, Family",
+    "Interest": "Culture",
+    "Mood": "happy, nerd, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cultural Book Club",
+    "People": "Friends, Family",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Attend a live performance",
+    "People": "Friends, Couples, Family",
+    "Interest": "Culture, Music",
+    "Mood": "nerd, happy, meh, moody",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Language Exchange Gatherings",
+    "People": "Friends",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, happy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Volunteer for Cultural Events",
+    "People": "Friends, Alone ",
+    "Interest": "Culture, Lifestyle",
+    "Mood": "nerd, happy",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Public Lectures and Talks",
+    "People": "Friends, Alone",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Community Art Projects",
+    "People": "Friends, Alone, Family, Couples",
+    "Interest": "Culture, Art",
+    "Mood": "nerd, happy, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Watch a cultural documentary",
+    "People": "Family, Couples, Alone",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Write poetry",
+    "People": "Family, Alone",
+    "Interest": "Culture",
+    "Mood": "nerd, meh, moody, angry, happy, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Explore a virtual museum",
+    "People": "Family, Alone",
+    "Interest": "Culture, Learning",
+    "Mood": "nerd, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "International vacation",
+    "People": "Family, Alone, Friends, Couples",
+    "Interest": "Culture, Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Cultural Bingo Night",
+    "People": "Family, Family",
+    "Interest": "Culture, Party",
+    "Mood": "happy, nerd, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Cultural cruise",
+    "People": "Family, Couples, Friends",
+    "Interest": "Culture, Lifestyle",
+    "Mood": "happy, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Home spa day",
+    "People": "Alone, Couples",
+    "Interest": "Lifestyle",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Wardrobe makeover",
+    "People": "Alone",
+    "Interest": "Lifestyle, Beauty & Fashion",
+    "Mood": "happy, moody, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Mindfulness Meditation",
+    "People": "Alone",
+    "Interest": "Lifestyle",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Personal Branding Workshop",
+    "People": "Alone",
+    "Interest": "Lifestyle",
+    "Mood": "happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Documenting Life Journey",
+    "People": "Alone, Couples",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Home Decor Projects",
+    "People": "Alone, Couples, Family",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, moody, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Culinary Adventures",
+    "People": "Couples",
+    "Interest": "Lifestyle",
+    "Mood": "happy, playful, in_love",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "DIY Home Improvement Projects",
+    "People": "Couples, Alone",
+    "Interest": "Lifestyle",
+    "Mood": "happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Fashion Styling Blog",
+    "People": "Couples, Alone",
+    "Interest": "Lifestyle, Beauty & Fashion",
+    "Mood": "happy, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Learn a New Instrument",
+    "People": "Couples, Alone",
+    "Interest": "Lifestyle, Learning",
+    "Mood": "happy, meh, moody, nerd",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Travel Adventure",
+    "People": "Couples, Alone, Friends, Family",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Photography Walk",
+    "People": "Couples, Alone",
+    "Interest": "Lifestyle, Culture",
+    "Mood": "nerd, happy, meh, moody",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Group Wellness Retreat",
+    "People": "Friends, Family",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Luxury Spa Day",
+    "People": "Friends, Family, Couples, Alone",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, moody",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "zip-lining",
+    "People": "Friends, Family",
+    "Interest": "Lifestyle, Nature & Animals, Sports & Fitness",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Book Swap and Coffee Afternoon",
+    "People": "Friends, Couples",
+    "Interest": "Lifestyle, Learning",
+    "Mood": "nerd, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Thrift Store Fashion Challenge",
+    "People": "Friends, Couples",
+    "Interest": "Lifestyle, Beauty & Fashion",
+    "Mood": "happy, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Boat rental",
+    "People": "Friends, Family, Couples, Alone",
+    "Interest": "Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "DIY Skincare Products",
+    "People": "Family, Alone, Couples",
+    "Interest": "Lifestyle, Beauty & Fashion",
+    "Mood": "happy, playful, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Home Fitness Studio",
+    "People": "Family, Couples, Alone",
+    "Interest": "Lifestyle, Sports & Fitness",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Interactive Science Museum Day",
+    "People": "Family, Friends, Couples, Alone",
+    "Interest": "Lifestyle, Learning",
+    "Mood": "happy, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Fitness Camp",
+    "People": "Family, Friends",
+    "Interest": "Lifestyle, Sports & Fitness",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Family vlogging",
+    "People": "Family",
+    "Interest": "Lifestyle",
+    "Mood": "happy, meh, moody, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Helicopter tour",
+    "People": "Family, Friends, Couples",
+    "Interest": "Lifestyle, Nature & Animals",
+    "Mood": "happy, playful, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Online courses & certifications",
+    "People": "Alone",
+    "Interest": "Learning",
+    "Mood": "nerd, happy, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Take up coding lessons",
+    "People": "Alone",
+    "Interest": "Learning",
+    "Mood": "nerd, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Download an educational app",
+    "People": "Alone",
+    "Interest": "Learning",
+    "Mood": "nerd, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Podcast exploration",
+    "People": "Alone",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "nerd, sleepy, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "TED-Ed Lessons",
+    "People": "Alone",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "happy, moody, meh, angry",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Science experiments",
+    "People": "Alone, Family",
+    "Interest": "Learning",
+    "Mood": "happy, nerd",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Planetarium Visit",
+    "People": "Couples, Family, Friends",
+    "Interest": "Learning, Culture",
+    "Mood": "nerd, happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Creative Writing Sessions",
+    "People": "Couples, Alone",
+    "Interest": "Learning, Culture",
+    "Mood": "in_love, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Attend Author Events",
+    "People": "Couples, Alone",
+    "Interest": "Learning, Culture",
+    "Mood": "nerd, happy, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Financial Literacy Workshops",
+    "People": "Couples, Alone",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Couples therapy",
+    "People": "Couples",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "happy, meh, moody, angry",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Psychology Courses",
+    "People": "Couples, Alone",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "happy, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Skillshare Classes",
+    "People": "Friends",
+    "Interest": "Learning",
+    "Mood": "happy, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Philosophical Conversations",
+    "People": "Friends, Couples",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "happy, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Escape Room",
+    "People": "Friends, Family",
+    "Interest": "Learning, Parties",
+    "Mood": "happy, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Collaborative Book Writing",
+    "People": "Friends, Family",
+    "Interest": "Learning",
+    "Mood": "happy, nerd, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "VR experience",
+    "People": "Friends, Family, Alone, Couples",
+    "Interest": "Learning, Parties",
+    "Mood": "happy, nerd, playful, party",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Community Learning Meetups",
+    "People": "Friends, Family",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "nerd, meh",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Learn a new language with Duolingo",
+    "People": "Family, Alone, Friends, Couples",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "nerd, happy, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Historical Mystery Night",
+    "People": "Family, Friends",
+    "Interest": "Learning",
+    "Mood": "nerd, sleepy, meh ",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Critical Thinking Games",
+    "People": "Family, Friends, Couples",
+    "Interest": "Learning",
+    "Mood": "nerd, sleepy, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Map Exploration Challenge",
+    "People": "Family, Friends",
+    "Interest": "Learning, Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Environmental Awareness Campaign",
+    "People": "Family, Friends, Alone",
+    "Interest": "Learning, Nature & Animals",
+    "Mood": "happy, meh, nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Astronomy Observation Night",
+    "People": "Family, Family, Couples",
+    "Interest": "Learning, Nature & Animals",
+    "Mood": "nerd",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Fashion Sketching or Illustration",
+    "People": "Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, meh, moody, angry, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Clothing Alterations",
+    "People": "Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Sewing lessons",
+    "People": "Alone, Friends, Couples",
+    "Interest": "Fashion & Beauty, Learning",
+    "Mood": "happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Create a Style Mood Board",
+    "People": "Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Hair Styling",
+    "People": "Alone, Friends, Couples",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Watch Makeup Tutorials",
+    "People": "Alone",
+    "Interest": "Fashion & Beauty, Learning",
+    "Mood": "happy, meh, sleepy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Online Fashion Courses",
+    "People": "Couples, Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, meh, sleepy, playful",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Shopping Experience",
+    "People": "Couples, Friends, Alone",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Fashion & Beauty Podcast Creation",
+    "People": "Couples, Alone",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Online Fashion Challenges",
+    "People": "Couples, Alone, Friends",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Beauty Product Reviews & Blogging",
+    "People": "Couples, Alone",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Experiment with Style Challenges",
+    "People": "Couples, Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Manicure and Pedicure",
+    "People": "Friends, Alone",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "happy, moody, meh",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Online Vintage Shopping Hunt",
+    "People": "Friends, Alone, Couples",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, meh, sleepy",
+    "Budget": "high",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Fashion Jewelry Making",
+    "People": "Friends, Alone, Couples",
+    "Interest": "Fashion & Beauty, Learning",
+    "Mood": "happy, meh, moody",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "DIY Perfume Blending & Swapping",
+    "People": "Friends, Alone, Couples",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Fashion & Beauty workshop",
+    "People": "Friends, Alone, Couples",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "nerd, happy, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Attend a fashion show",
+    "People": "Friends, Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, playful, meh",
+    "Budget": "high",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Explore Sustainable Fashion Practices",
+    "People": "Family, Alone",
+    "Interest": "Fashion & Beauty, Nature & Animals",
+    "Mood": "happy, nerd, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Fashion photoshoot",
+    "People": "Family, Alone, Couples",
+    "Interest": "Fashion & Beauty, Culture",
+    "Mood": "happy, playful, party",
+    "Budget": "medium",
+    "InOut": "go Out"
+  },
+  {
+    "Activity": "Beauty makeover day",
+    "People": "Family, Alone, Couples, Friends",
+    "Interest": "Fashion & Beauty, Lifestyle, Parties",
+    "Mood": "happy, meh, moody, party, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Beauty Night",
+    "People": "Family, Alone, Couples",
+    "Interest": "Fashion & Beauty, Lifestyle",
+    "Mood": "happy, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Clothing Swap",
+    "People": "Family, Couples, Friends",
+    "Interest": "Fashion & Beauty, Parties",
+    "Mood": "happy, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Fashion Accessories",
+    "People": "Family, Alone",
+    "Interest": "Fashion & Beauty",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play Uno (online)",
+    "People": "Alone, Couples, Friends, Family",
+    "Interest": "Board Games",
+    "Mood": "happy, sleepy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Solve a puzzle",
+    "People": "Alone",
+    "Interest": "Board Games",
+    "Mood": "nerd, happy, moody, angry, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Board Game Strategy Planning",
+    "People": "Alone",
+    "Interest": "Board Games",
+    "Mood": "nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Download a board game app",
+    "People": "Alone",
+    "Interest": "Board Games",
+    "Mood": "nerd, sleepy, meh, moody",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play chess (online)",
+    "People": "Alone, Couples",
+    "Interest": "Board Games",
+    "Mood": "nerd, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play solitaire",
+    "People": "Alone",
+    "Interest": "Board Games",
+    "Mood": "nerd, moody, sleepy, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play monopoly",
+    "People": "Couples, Friends, Family",
+    "Interest": "Board Games",
+    "Mood": "nerd, playful, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Visit a board game cafe",
+    "People": "Couples, Friends, Family",
+    "Interest": "Board Games",
+    "Mood": "nerd, playful, happy",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Double Date Game Nights",
+    "People": "Couples",
+    "Interest": "Board Games",
+    "Mood": "in_love, happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Record Gameplay Videos",
+    "People": "Couples, Alone, Friends",
+    "Interest": "Board Games",
+    "Mood": "playful, happy, nerd",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Themed Game Nights",
+    "People": "Couples, Friends, Family",
+    "Interest": "Board Games, Parties",
+    "Mood": "playful, happy, nerd, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Role-Playing Board Games",
+    "People": "Couples, Friends, Family",
+    "Interest": "Board Games",
+    "Mood": "playful, happy, nerd, party",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Board Game Swap",
+    "People": "Friends",
+    "Interest": "Board Games",
+    "Mood": "playful, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Board Game Marathon",
+    "People": "Friends, Couples, Family",
+    "Interest": "Board Games, Parties",
+    "Mood": "playful, happy, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Cooperative Campaigns",
+    "People": "Friends, Family",
+    "Interest": "Board Games",
+    "Mood": "playful, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Collaborative Board Game Reviews",
+    "People": "Friends, Family, Couples",
+    "Interest": "Board Games",
+    "Mood": "playful, happy, meh, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play codenames",
+    "People": "Friends, Family, Couples",
+    "Interest": "Board Games",
+    "Mood": "nerd, playful, happy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play card games",
+    "People": "Friends, Family, Couples",
+    "Interest": "Board Games",
+    "Mood": "nerd, playful, sleepy",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Board Game Escape Room",
+    "People": "Family, Friends",
+    "Interest": "Board Games, Parties",
+    "Mood": "nerd, party, playful",
+    "Budget": "medium",
+    "InOut": "Go Out"
+  },
+  {
+    "Activity": "Board Game Gift Exchange",
+    "People": "Family, Friends",
+    "Interest": "Board Games",
+    "Mood": "nerd, happy",
+    "Budget": "medium",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "DIY Board Game Crafting",
+    "People": "Family, Friends",
+    "Interest": "Board Games",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play battleship",
+    "People": "Family, Friends, Couples",
+    "Interest": "Board Games",
+    "Mood": "happy, playful, meh",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play scrabble",
+    "People": "Family, Friends",
+    "Interest": "Board Games",
+    "Mood": "happy, nerd, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  },
+  {
+    "Activity": "Play jenga",
+    "People": "Family, Friends, Couples",
+    "Interest": "Board Games",
+    "Mood": "happy, playful",
+    "Budget": "low",
+    "InOut": "Stay In"
+  }
+]

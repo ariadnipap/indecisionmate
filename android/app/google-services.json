@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424764710953",
+    "project_id": "indecisionmate-24594",
+    "storage_bucket": "indecisionmate-24594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424764710953:android:7b11438d61f78de77e7c38",
+        "android_client_info": {
+          "package_name": "com.example.indecisionmate_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxh6shyLfDUu98quRWAcqSyehnS71sxCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
